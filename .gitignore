@@ -1,0 +1,51 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/navEditor.xml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/dictionaries/
+.idea/deploymentTargetSelector.xml
+
+# Gradle / Kotlin
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Local machine config
+local.properties
+keystore.properties
+.DS_Store
+
+# Keystore / signing
+*.jks
+*.keystore
+
+# Android build artifacts
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+proguard/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Logs
+*.log
